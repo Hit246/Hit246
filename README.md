@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hitarth Chauhan 👋</h1>
+<h1 align="center">Hi there, I'm Hitarth Chauhan</h1>
 <h3 align="center">Full Stack Developer | React & Next.js Specialist | Building Real Products</h3>
 
 <div align="center">
